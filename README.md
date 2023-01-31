@@ -6,7 +6,6 @@ Simple Weather-app using ReactJs/OpenWeatherApi
 
 - Get Weather For A City
 - Get Current Location Weather
-- Dynamic Chart Showing Each Month Expenses And Incomes By Categories
 
 ## Online Demo
 
